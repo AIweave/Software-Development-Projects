@@ -7,6 +7,10 @@
 - [Quiz Game](https://github.com/AIweave/Quiz-Game)
 
   Score high in this game of true or false to test your knowledge on a random topics. 
+
+- [Pomodoro Timer]()
+
+  Use this timer to improve time management while staying focus on whatever task at hand by segmenting break sessions in between work.
   
 ## 🤝 Let's connect: 
 
