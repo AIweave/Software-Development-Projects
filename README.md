@@ -16,7 +16,7 @@
   
   Play the new version of Quiz Game with UI features!
 
-- [Snake Game]()
+- [Snake Game](https://github.com/AIweave/Snake-Game/tree/main)
 
   Enjoy this classic "Snake Game" where eating and scoring high seems endless until the snake grows too long!
   
