@@ -19,6 +19,10 @@
 - [Snake Game](https://github.com/AIweave/Snake-Game/tree/main)
 
   Enjoy this classic "Snake Game" where eating and scoring high seems endless until the snake grows too long!
+
+- [Ping Pong]()
+
+  Take the challenge of playing a game of "Ping Pong" alone or against an opponent to get the highest score. 
   
 ## 🤝 Let's connect: 
 
