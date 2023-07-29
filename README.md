@@ -20,7 +20,7 @@
 
   Enjoy this classic "Snake Game" where eating and scoring high seems endless until the snake grows too long!
 
-- [Ping Pong]()
+- [Ping Pong](https://github.com/AIweave/PIng-Pong)
 
   Take the challenge of playing a game of "Ping Pong" alone or against an opponent to get the highest score. 
   
