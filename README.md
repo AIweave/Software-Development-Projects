@@ -11,6 +11,10 @@
 - [Pomodoro Timer](https://github.com/AIweave/Pomodoro-Timer)
 
   Use this timer to improve time management while staying focus on whatever task at hand by segmenting break sessions in between work.
+
+- [Quiz Game 2]()
+
+  Play the new version of Quiz Game with UI features!
   
 ## 🤝 Let's connect: 
 
