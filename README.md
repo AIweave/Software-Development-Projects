@@ -15,6 +15,10 @@
 - [Quiz Game 2](https://github.com/AIweave/Quiz-Game-2)
   
   Play the new version of Quiz Game with UI features!
+
+- [Snake Game]()
+
+  Enjoy this classic "Snake Game" where eating and scoring high seems endless until the snake grows too long!
   
 ## 🤝 Let's connect: 
 
