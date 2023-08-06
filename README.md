@@ -22,7 +22,11 @@
 
 - [Ping Pong](https://github.com/AIweave/PIng-Pong)
 
-  Take the challenge of playing a game of "Ping Pong" alone or against an opponent to get the highest score. 
+  Take the challenge of playing a game of "Ping Pong" alone or against an opponent to get the highest score.
+
+- [NATO Pnonetics]()
+
+  Turn any letter into a NATO Phonetic word.
   
 ## 🤝 Let's connect: 
 
