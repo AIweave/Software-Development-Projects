@@ -24,7 +24,7 @@
 
   Take the challenge of playing a game of "Ping Pong" alone or against an opponent to get the highest score.
 
-- [NATO Pnonetics]()
+- [NATO Pnonetics](https://github.com/AIweave/NATO-Phonetics)
 
   Turn any letter into a NATO Phonetic word.
   
