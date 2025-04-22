@@ -28,4 +28,9 @@
 
   Turn any letter into a NATO Phonetic word.
 
+- [Tip Calculator](https://github.com/AIweave/Tip-Calculator)
+
+  Never struggle to calculate the tip after a meal out again.
+  
+
 
