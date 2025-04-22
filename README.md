@@ -27,11 +27,5 @@
 - [NATO Pnonetics](https://github.com/AIweave/NATO-Phonetics)
 
   Turn any letter into a NATO Phonetic word.
-  
-## 🤝 Let's connect: 
 
-Linkedin: [
-](https://www.linkedin.com/in/demonté-weaver-12a3a4284/)https://www.linkedin.com/in/demonté-weaver-12a3a4284/
-
-Youtube: https://www.youtube.com/channel/UCRmSlnISbsCaJib7ODE0OUA
 
