@@ -1,8 +1,16 @@
 # 👋 Hi, I'm Weaver, a [Software Developer](https://www.linkedin.com/in/demonté-weaver-12a3a4284/)
 ## Software Development Projects:
-- [Black Jack Game](https://github.com/AIweave/Black-Jack)
+- [Black Jack](https://github.com/AIweave/Black-Jack)
 
   Can you beat the computer in a game of Black Jack? Test your luck here with this.
+
+- [Basic Calculator](https://github.com/AIweave/Basic-Calculator)
+
+  This program is for building a basic calculator that add, subtract, divide, and multiply numbers continuously.
+
+- [Hang Man](https://github.com/AIweave/HangMan)
+
+  Can you guess the word. 
 
 - [Flash Card App](https://github.com/AIweave/Flash-Card-App)
   
@@ -35,6 +43,16 @@
 - [Tip Calculator](https://github.com/AIweave/Tip-Calculator)
 
   Never struggle to calculate the tip after a meal out again.
-  
+
+- [Password Generator](https://github.com/AIweave/Password-Generators)
+
+  Create a random password instantly.
+
+- [Treasure Island Game](https://github.com/AIweave/Treasure-Island-Quest)
+
+  Make the right decisions in this journey to find treasure or die trying.
+
+
+
 
 
