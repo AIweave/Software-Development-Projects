@@ -52,7 +52,7 @@
 
   Make the right decisions in this journey to find treasure or die trying.
 
-- [Guess The Number](https://github.com/user-attachments/assets/3e892574-d907-4b3f-949c-80dabf805a46)
+- [Guess The Number](https://github.com/AIweave/Guess-The-Number/tree/main)
 
   Test your luck in picking the correct number being generated randomly. 
 
